@@ -1,0 +1,10 @@
+Name: BlurryContrast
+Package: org.thebigboss.blurrycontrast
+Conflicts: org.thebigboss.contrast70
+Author: PoomSmart
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 7.0), mobilesubstrate
+Section: Tweaks
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is how springboard blurry contrast should be.
